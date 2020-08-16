@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, sou o [Rafael][website]
 
 [![Website](https://img.shields.io/website?label=rafaeljesusaraiva.pt&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
-[![Instagram](https://img.shields.io/badge/instagram-Instagram-orange&style=for-the-badge)][instagram]
+[![Instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&color=orange)][instagram]
 
 ## Sou Estudante, Fotógrafo, Programador e Surfista!
 
