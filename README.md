@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=Abrir&style=for-the-badge&color=orange&url=https%3A%2F%2Finstagram.com%2Frafaeljesusaraiva)][instagram]
 [![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Abrir&style=for-the-badge&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
 
-<br/>
-
 ## 💁  Sou Estudante, Fotógrafo, Programador e Surfista!
 
 - 📚  Estudo Engenharia Informática no [Instituto Superior de Engenharia de Coimbra][isec.pt]!
