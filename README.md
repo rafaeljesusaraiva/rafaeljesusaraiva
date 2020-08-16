@@ -39,6 +39,8 @@
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sql.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 
+<br/>
+
 <details>
   <summary>:zap: Estatísticas do Github</summary>
 
