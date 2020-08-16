@@ -1,19 +1,19 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Olá, sou o [Rafael][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=rafaeljesusaraiva.pt&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Sou Estudante, Fotógrafo, Programador e Surfista!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 Estou agora a remodelar o meu [Website][website]!
+- 🌱 Estou sempre a aprender algo novo 🤣
+- 👯 Disposto em colaborar em projetos!
+- 🥅 Objetivo de 2020: Ter uma plataforma central com todos os serviços que hospedo no meu Homelab.
+- ⚡ Facto sobre Mim: Sou meticuloso nos projetos em que participo, se é para se fazer algo, tem que ser bem feito!
 
-### Spotify Playing 🎧
+### O que estou a ouvir 🎧
 [<img src="https://novatorem.rafaeljesusaraiva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11121529647)
 
-### Connect with me:
+### Entra em contacto comigo:
 
 [<img align="left" alt="rafaeljesusaraiva.pt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rafael Saraiva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+### Línguas de Programação e Ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,9 +39,9 @@
 <br />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Estatísticas do Github</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://rafaeljesusaraiva.rafaeljesusaraiva.vercel.app
+  <img align="left" alt="Rafael's Github Stats" src="https://rafaeljesusaraiva.rafaeljesusaraiva.vercel.app
 /api?username=rafaeljesusaraiva&show_icons=true&hide_border=true" />
 
 </details>
