@@ -27,7 +27,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<br>
+<br/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
 <img align="left" alt="Symfony" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
