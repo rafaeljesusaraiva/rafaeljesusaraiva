@@ -26,9 +26,10 @@
 
 - Brevemente...
 
+<!--
 ### :zap: Estatísticas do Github:
 <img align="left" alt="Rafael's Github Stats" src="https://github-readme-stats.rafaeljesusaraiva.vercel.app/api?username=rafaeljesusaraiva&show_icons=true&hide_border=true" />
-
+-->
 <br/>
 
 [website]: https://rafaeljesusaraiva.pt
