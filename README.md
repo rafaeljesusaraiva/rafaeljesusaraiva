@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=rafaeljesusaraiva.pt&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
 [![Instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&color=orange&url=https%3A%2F%2Finstagram.com%2Frafaeljesusaraiva)][instagram]
-[![Linkedin](https://img.shields.io/website?label=Instagram&style=for-the-badge&color=informational&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
+[![Linkedin](https://img.shields.io/website?label=Instagram&style=for-the-badge&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
 
 ## Sou Estudante, Fotógrafo, Programador e Surfista!
 
@@ -14,12 +14,6 @@
 
 ### O que estou a ouvir
 [<img src="https://novatorem.rafaeljesusaraiva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11121529647)
-
-### Entra em contacto comigo:
-
-[<img align="left" alt="rafaeljesusaraiva.pt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rafael Saraiva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rafael Jesus Saraiva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
