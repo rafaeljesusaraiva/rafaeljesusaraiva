@@ -1,14 +1,14 @@
-## Olá, sou o [Rafael][website] 👋
+## Olá, sou o [Rafael][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=rafaeljesusaraiva.pt&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
 
 ## Sou Estudante, Fotógrafo, Programador e Surfista!
 
-- 🔭 Estou agora a remodelar o meu [website][website]!
-- 🌱 Estou sempre a aprender algo novo!
-- 👯 Disposto em colaborar em projetos!
-- 🥅 __Objetivo de 2020:__ Ter uma plataforma central com todos os serviços que hospedo no meu Homelab.
-- ⚡ __Facto sobre Mim:__ Sou meticuloso nos projetos em que participo, se é para se fazer algo, tem que ser bem feito!
+- 🔭  Estou agora a remodelar o meu [website][website]!
+- 🌱  Estou sempre a aprender algo novo!
+- 👯  Disposto em colaborar em projetos!
+- 🥅  __Objetivo de 2020:__ Ter uma plataforma central com todos os serviços que hospedo no meu Homelab.
+- ⚡  __Facto sobre Mim:__ Sou meticuloso nos projetos em que participo, se é para se fazer algo, tem que ser bem feito!
 
 ### O que estou a ouvir 🎧
 [<img src="https://novatorem.rafaeljesusaraiva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11121529647)
