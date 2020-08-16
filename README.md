@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, sou o [Rafael][website]
 
-[![Website](https://img.shields.io/website?label=rafaeljesusaraiva.pt&message=Abrir&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
+[![Website](https://img.shields.io/static/v1?label=website&message=Abrir&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=Abrir&style=for-the-badge&color=orange&url=https%3A%2F%2Finstagram.com%2Frafaeljesusaraiva)][instagram]
 [![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Abrir&style=for-the-badge&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
 
@@ -14,9 +14,6 @@
 
 ### O que estou a ouvir
 [<img src="https://novatorem.rafaeljesusaraiva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11121529647)
-
-<br />
-<br />
 
 ### Ferramentas e Línguas de Programação que uso:
 
@@ -32,6 +29,8 @@
   <img align="left" alt="Rafael's Github Stats" src="https://github-readme-stats.rafaeljesusaraiva.vercel.app/api?username=rafaeljesusaraiva&show_icons=true&hide_border=true" />
 
 </details>
+
+<br/>
 
 [website]: https://rafaeljesusaraiva.pt
 [instagram]: https://instagram.com/rafaeljesusaraiva
