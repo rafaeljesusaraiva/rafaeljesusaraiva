@@ -4,18 +4,19 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=Abrir&style=for-the-badge&color=orange&url=https%3A%2F%2Finstagram.com%2Frafaeljesusaraiva)][instagram]
 [![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Abrir&style=for-the-badge&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
 
-## Sou Estudante, Fotógrafo, Programador e Surfista!
+## 💁 Sou Estudante, Fotógrafo, Programador e Surfista!
 
+- 📚  Estudo Engenharia Informática no [Instituto Superior de Engenharia de Coimbra][isec.pt]!
 - 🔭  Estou agora a remodelar o meu [website][website]!
 - 🌱  Estou sempre a aprender algo novo!
 - 👯  Disposto em colaborar em projetos!
 - 🥅  __Objetivo de 2020:__ Ter uma plataforma central com todos os serviços que hospedo no meu Homelab.
 - ⚡  __Facto sobre Mim:__ Sou meticuloso nos projetos em que participo, se é para se fazer algo, tem que ser bem feito!
 
-### O que estou a ouvir
+### 🎼 O que estou a ouvir:
 [<img src="https://novatorem.rafaeljesusaraiva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11121529647)
 
-### Ferramentas e Línguas de Programação que uso:
+### 💻 Ferramentas e Línguas de Programação que uso:
 
 |<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /><img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg" /><img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /><img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />|
 |:-:|
