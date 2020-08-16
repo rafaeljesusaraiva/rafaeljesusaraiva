@@ -1,7 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, sou o [Rafael][website]
 
 [![Website](https://img.shields.io/website?label=rafaeljesusaraiva.pt&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
-[![Instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&color=orange)][instagram]
+[![Instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&color=orange&url=https%3A%2F%2Finstagram.com%2Frafaeljesusaraiva)][instagram]
+[![Linkedin](https://img.shields.io/website?label=Instagram&style=for-the-badge&color=informational&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
 
 ## Sou Estudante, Fotógrafo, Programador e Surfista!
 
