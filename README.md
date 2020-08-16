@@ -24,7 +24,7 @@
 |:-:|
 |<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /><img align="left" alt="Symfony" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="left" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /><img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /><img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /><img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />|
 
-### Homelab:
+### 🗄  Homelab:
 
 - Brevemente...
 
