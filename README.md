@@ -24,7 +24,41 @@
 
 ### 🗄  Homelab:
 
-- Brevemente...
+<details>
+	<summary> 🎩 <em>The Keeper</em></summary>
+    
+	- Specs:
+		- Intel Pentium G3220
+		- 16GB RAM
+		- 4-portas Gigabit NIC
+		- [Caixa Rackmount](https://www.ipc.in-win.com/rackmount-chassis-iw-rf100)
+
+	- Hospedeiro Proxmox
+		- Proxy NGINX
+		- Apache Webserver
+		- Controlador Unifi
+		- Pi-Hole & Wireguard (VPN)
+		- Media Center & Downloader
+</details>
+<details>
+	<summary> 👾 <em>Bodhi</em> - Dell R610</summary>
+
+	- Hospedeiro ESXI
+</details>🔥
+<details>
+	<summary> 🤖 <em>Saruman</em></summary>
+    
+	- Specs:
+		- ???
+
+	- Hospedeiro UnRaid
+        - Espaço de Armazenamento (?)
+</details>
+<details>
+	<summary> 🔥 <em>Cordelia</em> - Dell R720XD</summary>
+
+	- Windows Server 2019
+</details>
 
 <!--
 ### :zap: Estatísticas do Github:
