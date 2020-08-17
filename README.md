@@ -44,7 +44,7 @@
 	<summary> 👾 <em>Bodhi</em> - Dell R610</summary>
 
 	- Hospedeiro ESXI
-</details>🔥
+</details>
 <details>
 	<summary> 🤖 <em>Saruman</em></summary>
     
