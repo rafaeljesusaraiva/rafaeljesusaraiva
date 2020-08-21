@@ -4,12 +4,12 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=Abrir&style=for-the-badge&color=orange&url=https%3A%2F%2Finstagram.com%2Frafaeljesusaraiva)][instagram]
 [![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Abrir&style=for-the-badge&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
 
-## 💁  Sou Estudante, Fotógrafo, Programador e Surfista!
+## 💁  Estudante, Fotógrafo, Programador e Surfista!
 
 - 📚  Estudo Engenharia Informática no [Instituto Superior de Engenharia de Coimbra][isec.pt]!
 - 🔭  Estou agora a remodelar o meu [website][website]!
 - 🌱  Estou sempre a aprender algo novo!
-- 👯  Disposto em colaborar em projetos!
+- 👯  Disposto a colaborar em projetos!
 - 🥅  __Objetivo de 2020:__ Ter uma plataforma central com todos os serviços que hospedo no meu Homelab.
 - ⚡  __Facto sobre Mim:__ Sou meticuloso nos projetos em que participo, se é para se fazer algo, tem que ser bem feito!
 
