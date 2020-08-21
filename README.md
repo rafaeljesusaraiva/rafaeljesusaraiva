@@ -6,7 +6,7 @@
 
 ## 💁  Estudante, Fotógrafo, Programador e Surfista!
 
-- 📚  Estudo Engenharia Informática no [Instituto Superior de Engenharia de Coimbra][isec.pt]!
+- 📚  Estudo Engenharia Informática no [Instituto Superior de Engenharia de Coimbra](isec.pt)!
 - 🔭  Estou agora a remodelar o meu [website][website]!
 - 🌱  Estou sempre a aprender algo novo!
 - 👯  Disposto a colaborar em projetos!
