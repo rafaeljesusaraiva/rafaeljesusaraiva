@@ -43,7 +43,7 @@
 <details>
 	<summary> 👾 <em>Bodhi</em> - Dell R610</summary>
 
-	- Hospedeiro ESXI
+	- Proxmox Backup OS
 </details>
 <details>
 	<summary> 🤖 <em>Saruman</em></summary>
@@ -55,7 +55,7 @@
         - Espaço de Armazenamento (?)
 </details>
 <details>
-	<summary> 🔥 <em>Cordelia</em> - Dell R720XD</summary>
+	<summary> 🔥 <em>Cordelia</em> - Soon</summary>
 
 	- Windows Server 2019
 </details>
