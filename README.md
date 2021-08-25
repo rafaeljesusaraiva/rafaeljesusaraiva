@@ -13,9 +13,6 @@
 - 🥅  __Objetivo de 2020:__ Ter uma plataforma central com todos os serviços que hospedo no meu Homelab.
 - ⚡  __Facto sobre Mim:__ Sou meticuloso nos projetos em que participo, se é para se fazer algo, tem que ser bem feito!
 
-### 🎼  O que estou a ouvir:
-[<img src="https://novatorem.rafaeljesusaraiva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11121529647)
-
 ### 💻  Ferramentas e Línguas de Programação que uso:
 
 |<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /><img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg" /><img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /><img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />|
@@ -43,27 +40,19 @@
 <details>
 	<summary> 👾 <em>Bodhi</em> - Dell R610</summary>
 
-	- Proxmox Backup OS
+	- Windows Server 2019
 </details>
 <details>
 	<summary> 🤖 <em>Saruman</em></summary>
     
 	- Specs:
-		- ???
+		- Intel i3 10100
+		- 16GB RAM
 
 	- Hospedeiro UnRaid
-        - Espaço de Armazenamento (?)
-</details>
-<details>
-	<summary> 🔥 <em>Cordelia</em> - Soon</summary>
-
-	- Windows Server 2019
+        - Espaço de Armazenamento (24TB)
 </details>
 
-<!--
-### :zap: Estatísticas do Github:
-<img align="left" alt="Rafael's Github Stats" src="https://github-readme-stats.rafaeljesusaraiva.vercel.app/api?username=rafaeljesusaraiva&show_icons=true&hide_border=true" />
--->
 <br/>
 
 [website]: https://rafaeljesusaraiva.pt
