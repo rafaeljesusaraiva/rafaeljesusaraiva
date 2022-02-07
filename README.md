@@ -10,7 +10,7 @@
 - 🔭  Estou agora a remodelar o meu [website][website]!
 - 🌱  Estou sempre a aprender algo novo!
 - 👯  Disposto a colaborar em projetos!
-- 🥅  __Objetivo de 2021:__ Criar uma plataforma personalizada de fotografia (website, entrega, aplicação, ...).
+- 🥅  __Objetivo de 2022:__ Criar uma plataforma personalizada de fotografia (website, entrega, aplicação, ...).
 - ⚡  __Facto sobre Mim:__ Sou meticuloso nos projetos em que participo, se é para se fazer algo, tem que ser bem feito!
 
 ### 💻  Ferramentas e Línguas de Programação que uso:
