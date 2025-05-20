@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Rafael
 
 [![Website](https://img.shields.io/static/v1?label=website&message=Abrir&style=for-the-badge&url=https%3A%2F%2Frafaeljesusaraiva.pt)](https://rafaeljesusaraiva.pt)
-[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Abrir&style=for-the-badge&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)][linkedin]
+[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=Abrir&style=for-the-badge&color=blue&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafaeljesusaraiva&2F)](https://www.linkedin.com/in/rafaeljesusaraiva/)
 
 ## Systems Administrator and Programming & Robotics Workshop Leader @ TUMO
 
